@@ -1,4 +1,4 @@
-DASH Webinars
+# DASH Webinars
 Materials for DASH Workshops 
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/dash-webinars) with GitHub Pages. 
