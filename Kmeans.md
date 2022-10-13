@@ -38,6 +38,6 @@ View the original [here](https://echo360.ca/media/e878d90e-d572-4533-ab6c-2ce8b4
 <iframe src="//docs.google.com/viewer?url=https://github.com/scds/dash-workshops/raw/main/assets/docs/DASHWorkshop-K-means-clustering_ShailaJamal.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 
-[Download as a PDF](https://github.com/scds/dash-workshops/raw/main/assets/docs/DASH Workshop-K-means-clustering_Shaila Jamal.pdf)
+[Download as a PDF](https://github.com/scds/dash-workshops/raw/main/assets/docs/DASHWorkshop-K-means-clustering_ShailaJamal.pdf)
 <br>
 
