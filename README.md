@@ -1,13 +1,13 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the DMDS workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+DASH Webinars
+Materials for DASH Workshops 
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/dash-webinars) with GitHub Pages. 
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Workshop content created by Christine Homuth, John Fink, Vivek Jadon, Shaila Jamal, and Isaac Kinley.
+- Content edited for online use by Veronica Litt
+- Online pages created by Veronica Litt
 
 
   
