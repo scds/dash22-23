@@ -1,5 +1,5 @@
-title: DMDS Workshop Name # *** Enter workshop title here 
-subtitle: 'SCDS Do More with Digital Scholarship series'
+title: DASH Webinars # *** Enter workshop title here 
+subtitle: 'The Data Analysis Support Hub'
 
 remote_theme: scds/just-the-docs
 github_repo_url: "https://scds.github.io/dmds-template/" # ***Enter workshop URL (in github pages) here
@@ -38,7 +38,7 @@ plugins:
   - jekyll-seo-tag
 
 # Google Analytics Tracking
-ga_tracking: # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
+ga_tracking: G-9W20BCR169
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 license_url: "http://creativecommons.org/licenses/by/4.0/"
 license_name: "Creative Commons Attribution 4.0 International License"
