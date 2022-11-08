@@ -21,8 +21,7 @@ Preparation for this tutorial consists of two steps: [Getting the data](#get-the
   
 ## Get the data
 
-Access [RMD file](https://github.com/scds/dash-webinars/blob/f1d71d786733cf447d2a4c61cdf0adf239d0e984/assets/docs/DASH_ML%20with%20R%20-%20K-means%20clustering.Rmd) mentioned in the workshop. 
-Access the [CSV file](https://github.com/scds/dash-webinars/blob/f1d71d786733cf447d2a4c61cdf0adf239d0e984/assets/docs/starbucks-menu-nutrition-drinks.csv) mentioned in the workshop.
+[Access the RMD and CSV files mentioned in the workshop.](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EvZSraT60XZFlhNtCbbEQr0Bxb0pt53qnqJ-LnrFlKEvXA?e=wGkIvS)
 
 ## Get the software
 This hands-on workshop uses [**R**](https://www.r-project.org/), a software application for data analysis. The program is free to download.
@@ -39,6 +38,6 @@ View the original [here](https://echo360.ca/media/e878d90e-d572-4533-ab6c-2ce8b4
 <iframe src="//docs.google.com/viewer?url=https://github.com/scds/dash-webinars/raw/main/assets/docs/DASHWorkshop-K-means-clustering_ShailaJamal.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 
-[Download as a PDF](https://github.com/scds/dash-webinars/raw/main/assets/docs/DASHWorkshop-K-means-clustering_ShailaJamal.pdf)
+[Download as a PDF](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EvZSraT60XZFlhNtCbbEQr0Bxb0pt53qnqJ-LnrFlKEvXA?e=wGkIvS)
 <br>
 
