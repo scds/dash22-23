@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Intermediate Python
+title: Intermediate Python Programming
 nav_order: 7
 ---
 
-## Intermediate Python
+## Intermediate Python Programming
 
 <img src="assets/img/LRWB2.png" alt="Workshop Title Slide" width="720">
 
