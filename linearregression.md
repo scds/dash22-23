@@ -21,7 +21,7 @@ Preparation for this tutorial consists of two steps: [Getting the data](#get-the
   
 ## Get the data
 
-Coming Soon
+[Access all the files mentioned in the workshop.](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EkUm2pZxDgpNs6-QOG_M5ZUBuIFCHlOM0DEQyTuwqu0wRg?e=Ghg5bD)
 
 ## Get the software
 This hands-on workshop uses [**R**](https://www.r-project.org/), a software application for data analysis. The program is free to download.
@@ -34,6 +34,11 @@ View the original [here](https://echo360.ca/media/89dd7672-a26e-49df-93b7-b0d3c6
 
 ## Workshop Slides
 
-Coming Soon
+<div style="position:relative;padding-top:66.25%;">
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/dash-webinars/raw/main/assets/docs/LRSlides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+</div>
+
+[Download as a PDF](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EvZSraT60XZFlhNtCbbEQr0Bxb0pt53qnqJ-LnrFlKEvXA?e=wGkIvS)
+<br>
 
 
