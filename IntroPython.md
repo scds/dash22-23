@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intro Python Programming
+title: Intro to Python Programming
 nav_order: 6
 ---
 
