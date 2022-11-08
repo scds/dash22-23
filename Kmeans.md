@@ -21,7 +21,8 @@ Preparation for this tutorial consists of two steps: [Getting the data](#get-the
   
 ## Get the data
 
-[Access RMD and CSV files mentioned in the workshop](https://drive.google.com/drive/folders/1Iy93S_NrxPc3IkT-0895zrrurQiXKfgZ).
+Access [RMD file](https://github.com/scds/dash-webinars/blob/f1d71d786733cf447d2a4c61cdf0adf239d0e984/assets/docs/DASH_ML%20with%20R%20-%20K-means%20clustering.Rmd) mentioned in the workshop. 
+Access the [CSV file](https://github.com/scds/dash-webinars/blob/f1d71d786733cf447d2a4c61cdf0adf239d0e984/assets/docs/starbucks-menu-nutrition-drinks.csv) mentioned in the workshop.
 
 ## Get the software
 This hands-on workshop uses [**R**](https://www.r-project.org/), a software application for data analysis. The program is free to download.
