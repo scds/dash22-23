@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Learning with R - Logistic
+title: Machine Learning with R - Logistic Regression
 nav_order: 4
 ---
 
@@ -21,7 +21,7 @@ Preparation for this tutorial consists of two steps: [Getting the data](#get-the
   
 ## Get the data
 
-Coming Soon
+[Access the files mentioned in this workshop.](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/El_xfO9xn4ZDv4qGsQl9LCUBWxF09Om5wAFZGk05Kzybeg?e=9COMzx)
 
 ## Get the software
 This hands-on workshop uses [**R**](https://www.r-project.org/), a software application for data analysis. The program is free to download.
@@ -32,4 +32,9 @@ Coming Soon
 
 ## Workshop Slides
 
-Coming Soon
+<div style="position:relative;padding-top:66.25%;">
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/dash-webinars/raw/main/assets/docs/LogisticSlides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+</div>
+
+[Download as a PDF](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/El_xfO9xn4ZDv4qGsQl9LCUBWxF09Om5wAFZGk05Kzybeg?e=9COMzx)
+<br>
