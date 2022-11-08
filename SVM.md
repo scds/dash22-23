@@ -15,13 +15,13 @@ Presentation by Shaila Jamal, DASH Support Assistant and PhD Candidate in Earth,
 
 This event is run in collaboration with the YWCA's Uplift Program, which supports women and non-binary people re-skilling to enter the tech industry. 
 
-# Workshop preparation 
+## Workshop preparation 
 
 Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
   
 ## Get the data
 
-Coming Soon
+[Access the files mentioned in the workshop.](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/Ej5XmWVfk_lFo22EYEm5W7wBYVpm4EfhAjP_zswChjEnmg?e=DyrklA)
 
 ## Get the software
 This hands-on workshop uses [**R**](https://www.r-project.org/), a software application for data analysis. The program is free to download.
@@ -32,6 +32,10 @@ Coming Soon
 
 ## Workshop Slides
 
-Coming Soon
+<div style="position:relative;padding-top:66.25%;">
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/dash-webinars/raw/main/assets/docs/SVM Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+</div>
 
+[Download as a PDF](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/Ej5XmWVfk_lFo22EYEm5W7wBYVpm4EfhAjP_zswChjEnmg?e=DyrklA)
+<br>
 
