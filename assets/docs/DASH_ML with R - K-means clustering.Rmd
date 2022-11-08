@@ -1,0 +1,212 @@
+---
+title: "K-means clustering"
+author: "Shaila"
+date: '2022-04-03'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+At the beginning, let's clear the environment with the following codes:
+
+```{r}
+rm(list=ls())
+```
+
+Loading packages (note: if you are using these packages for the first time, please remember that you need to install the packages first (with 'install.packages()' function), and then load it with 'library()' function)
+
+```{r echo=FALSE}
+library(tidyverse)  # data mining
+library(cluster)    # clustering algorithms
+library(factoextra) # clustering algorithms & visualization
+```
+
+# Recommended Readings: 
+
+1. Understanding K-means cluster 1: https://www.youtube.com/watch?v=_S5tvagaQRU
+2. Understanding K-means cluster 2: https://www.youtube.com/watch?v=4b5d3muPQmA
+3. K-means Cluster Analysis: https://uc-r.github.io/kmeans_clustering
+4. What is scaling: https://www.jigsawacademy.com/cluster-analysis-scaling/
+
+# Importing data
+
+```{r}
+df <- read.csv("starbucks-menu-nutrition-drinks.csv")
+```
+
+
+You can also import data by specifying the location/path of file. 
+For example: df <- read.csv("C:/Users/shail/Downloads/starbucks-menu-nutrition-drinks.csv")
+
+
+# Removing any missing value that might be present in the data
+
+```{r}
+df <- na.omit(df)
+```
+
+
+```{r echo=FALSE}
+# As we do not want the clustering algorithm to depend to an arbitrary variable unit, we start by scaling/standardizing the data:
+df1 <- scale(df[,2:7]) # selecting only continuous/numeric variables for standardizing/ scaling
+head(df1) # to see the column names
+```
+
+Finding optimal number of clusters (K)
+
+Elbow method: 
+
+```{r}
+set.seed(111) ## to fix the random starting clusters
+wcss<- NULL
+for (i in 1:10){
+  fit = kmeans(df1,centers = i)
+  wcss = c(wcss, fit$tot.withinss)
+}
+plot(1:10, wcss, type = "o")
+```
+
+
+Let's say we want to create clusters with only two variables "calories" and "protein"
+
+```{r}
+df_1 <- scale(df[, c(2, 6)]) # selecting only continuous/numeric variables for standardizing/ scaling
+head(df_1) #
+```
+
+
+Identifying the optimal number of cluster with the two variables "calories" and "protein": 
+
+```{r}
+set.seed(111) ## to fix the random starting clusters
+wcss<- NULL
+for (i in 1:10){
+  fit = kmeans(df_1,centers = i)
+  wcss = c(wcss, fit$tot.withinss)
+}
+plot(1:10, wcss, type = "o")  # to learn about the 'type' argument in 'plot()' function, check this: https://www.learnbyexample.org/r-plot-function/
+```
+
+# Join datasets
+```{r}
+df1 <- data.frame(df$Item, df1)
+df1
+```
+
+# K-Means Clustering of Starbucks items by Calories and Protein Consumption: creating 4 clusters using 2 variables
+
+```{r}
+# Cluster Analysis - kmeans
+set.seed(123456789) ## to fix the random starting clusters
+Cluster_1 <- kmeans(df1[,c("Calories","Protein")], centers=4)
+Cluster_1
+```
+
+```{r}
+## Finding cluster assignments
+o=order(Cluster_1$cluster)
+o
+```
+
+```{r}
+df2 <- data.frame(df1$df.Item[o],Cluster_1$cluster[o])
+df2
+```
+
+# Visualization of Cluster Analysis
+
+```{r, fig.width=12, fig.height=12, fig.fullwidth=TRUE}
+visual_1 <- plot(df1$Calories, df1$Protein, type="n", xlab="Calories", ylab="Protein")
+text(x=df1$Calories, y=df1$Protein, labels=df1$df.Item, col=Cluster_1$cluster)
+```
+
+
+** Two useful resources to solve the overlapping labels in a scattered plot using 'ggplot2' and 'ggrepel' package: 
+
+1. https://r-graphics.org/recipe-scatter-labels
+2. https://ggrepel.slowkow.com/articles/examples.html
+
+
+Here is an example using 'ggplot2' and 'ggrepel' package to resolve the overlapping issue.
+
+Loading the packages. Instead of here, you can load these at the beginning if you want (that is recommended). 
+
+```{r}
+library(ggplot2)
+library(ggrepel)
+```
+
+Creating the graph
+
+```{r, fig.width=12, fig.height=22, fig.fullwidth=TRUE}
+visual_2 <- ggplot(df1, aes(x = Calories, y = Protein, label = df.Item)) +
+    geom_point(col=Cluster_1$cluster, size = 3) +
+    geom_label_repel(max.overlaps = Inf) # setting this so that all labels are shown in the plot.
+visual_2
+```
+
+# Interpreting clusters:
+
+Displaying the descriptive statistics:
+```{r}
+des_stat <- df1 %>% select("Calories", "Protein") %>%  # selecting these two variables as we created the cluster based on these two variables
+  mutate(Cluster = Cluster_1$cluster) %>%
+  group_by(Cluster) %>%
+  summarise_all("mean")
+
+des_stat
+```
+
+or the most easiest way to find the mean values of the clusters are displaying the centres of the Clusters you created using the following codes:
+
+```{r}
+Cluster_1$centers
+```
+
+You can describe these mean values and discuss each cluster's characteristics
+
+Also, you can visualize this through a plot (see the example below) and discuss them by combining the plots and tables. 
+
+```{r}
+ggplot(des_stat, aes(x=Cluster)) + 
+  labs(y="Mean value of the Variable") +
+  geom_point(aes(y = Calories), color = "red") + 
+  geom_point(aes(y = Protein), color="blue") 
+
+```
+
+Another way of visualizing 
+
+```{r}
+df_plot <- gather(des_stat, key = "variable", value = "value", 2:3) #converting the second (Calories) and third (Protein) column into long format
+df_plot
+```
+
+The long format was needed to create the following plot using ggplot2
+
+```{r}
+ggplot(df_plot, aes(x = Cluster, y = value)) + 
+  geom_line(aes(color = variable, linetype = variable)) + 
+  scale_color_manual(values = c("red", "blue")) +
+  geom_text(aes(label=value, vjust=0.5)) # adding this line to add the values
+```
+The values are too big? Let's consider only three decimal places by using 'format' function.
+
+```{r}
+df_plot$value <- as.numeric(format(round(df_plot$value, 3))) # we also used 'as.numeric' function as this data need to be in numeric form to be plotted as values
+df_plot
+```
+
+Now plot your visuals:
+```{r}
+ggplot(df_plot, aes(x = Cluster, y = value)) + 
+  geom_text(aes(label=value)) +
+  geom_line(aes(color = variable, linetype = variable)) + 
+  scale_color_manual(values = c("red", "blue"))
+#geom_label_repel(max.overlaps = Inf)
+   # adding this line to add the values
+```
+
