@@ -28,7 +28,9 @@ This hands-on workshop uses [**R**](https://www.r-project.org/), a software appl
 
 ## Workshop Recording
 
-Coming Soon
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/73af7636-e49a-4eb0-a6cb-98ecbec0d9a8/public"></iframe>
+
+View the original [here](https://echo360.ca/media/73af7636-e49a-4eb0-a6cb-98ecbec0d9a8/public). 
 
 ## Workshop Slides
 
