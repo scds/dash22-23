@@ -6,7 +6,7 @@ nav_order: 7
 
 ## Intermediate Python Programming
 
-<img src="assets/img/LRWB2.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/IntPyth.png" alt="Workshop Title Slide" width="720">
 
 Python is a powerful and easy-to-learn programming language used by many scientists. From web scraping to bioinformatics, Python is bound to have a module that could be useful to you. This workshop will include a brief review of variable types and control flow before moving on to functions, variable scope, object-oriented programming, and several of Python’s important science libraries.
 
