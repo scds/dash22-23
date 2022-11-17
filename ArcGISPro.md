@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ArcMap to ArcGIS Pro
+title: Moving from ArcMap to ArcGIS Pro
 nav_order: 8
 ---
 
