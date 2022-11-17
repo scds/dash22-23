@@ -6,7 +6,7 @@ nav_order: 8
 
 ## Making the Move from ArcMap to ArcGIS Pro
 
-<!--<img src="assets/img/Python.png" alt="Workshop Title Slide" width="720">-->
+<!--<img src="assets/img/ArcMapArcPro.png" alt="Workshop Title Slide" width="720">-->
 
 Are you an ArcGIS Desktop user who is curious about the differences between ArcMap and ArcGIS Pro? This workshop is geared towards existing ArcMap users who are interested in making the switch to ArcGIS Pro and will cover topics such as: the timeline of support for ArcMap, licensing and access, differences and similarities between the two programs, and how to import files from ArcMap and share your content. 
 
