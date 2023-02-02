@@ -22,7 +22,6 @@ This year's programming includes events on the following topics:
 - Machine Learning with R: Logistic Regression
 - Making the Move from ArcMap to ArcGIS Pro
 - Machine Learning with R: Support Vector Machine Classification
-- Intro to SPSS
 - Intro to Machine Learning with Python
 - Intro to R Programming
 - Data Visualization with MATLAB
@@ -30,10 +29,7 @@ This year's programming includes events on the following topics:
 - Data Visualization in R using ggplot2
 - Visual Data Analysis with Microsoft Excel
 - Intro to Geospatial Data
-- Simulations for Power Analysis with R
 - Intro to LaTeX
-- Intro to Spatial Analysis with ArcGIS Pro
-- Intro to Mixed Effect Models with R
 - How to Copy ArcGIS Online Content Between Accounts
 - Version Control with Git
 
