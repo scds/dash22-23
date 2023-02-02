@@ -19,7 +19,7 @@ Presentation by Subhanya Sivajothy (Data Analysis and Visualization Librarian).
 Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
   
 ## Get the data
-Access the data file [in .xlsx extension](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EsD3ng2kvL9OqNGogNshky4BmAGqsCRixEDZpdFhheR-VA?e=lMjuNh.
+Access the data file [in .xlsx extension](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EsD3ng2kvL9OqNGogNshky4BmAGqsCRixEDZpdFhheR-VA?e=lMjuNh).
 
 ## Get the software
 This hands-on workshop uses [**Matlab**](https://matlab.mathworks.com/), a software application for data visualization, and [**Octave**](https://octave.org/), its free alternative. 
