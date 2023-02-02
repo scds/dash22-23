@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Data Visualization with Matlab
+title: Data Visualization with MATLAB
 nav_order: 11
 ---
 
-## Data Visualization with Matlab
+## Data Visualization with MATLAB
 
 <img src="assets/img/Matlab-Final.png" alt="Workshop Title Slide" width="720">
 
@@ -22,7 +22,7 @@ Preparation for this tutorial consists of two steps: [Getting the data](#get-the
 Access the data file [in .xlsx extension](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EsD3ng2kvL9OqNGogNshky4BmAGqsCRixEDZpdFhheR-VA?e=lMjuNh).
 
 ## Get the software
-This hands-on workshop uses [**Matlab**](https://matlab.mathworks.com/), a software application for data visualization, and [**Octave**](https://octave.org/), its free alternative. 
+This hands-on workshop uses [**MATLAB**](https://matlab.mathworks.com/), a software application for data visualization, and [**Octave**](https://octave.org/), its free alternative. 
 
 ## Asynchronous Video Module
 
