@@ -12,7 +12,7 @@ This asynchronous module discusses how you can create publication-quality figur
 
 Presentation by Subhanya Sivajothy (Data Analysis and Visualization Librarian).
 
-[Book an appointment with Isaac or another member of the DASH Team.](https://library.mcmaster.ca/services/dash)
+[Book an appointment with Subhanya or another member of the DASH Team.](https://library.mcmaster.ca/services/dash)
 
 # Workshop preparation 
 
