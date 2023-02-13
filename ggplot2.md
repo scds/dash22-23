@@ -30,5 +30,7 @@ View the original [here](https://echo360.ca/media/755f87f0-4515-416d-b32f-608a17
 ## Additional Resources
 
 [ggplot2 Cheat Sheet](https://github.com/rstudio/cheatsheets/blob/main/data-visualization.pdf)
+
 [Information on Colour](http://sape.inf.usi.ch/quick-reference/ggplot2/colour)
+
 [Data Visualization Guide](https://datavizcatalogue.com/)
