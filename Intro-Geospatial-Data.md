@@ -6,6 +6,8 @@ nav_order: 13
 
 ## Introduction to Geospatial Data
 
+<img src="assets/img/GeoSpatial.png" alt="Workshop Title Slide" width="720">
+
 Geospatial data is data about objects or features on or near the surface of the Earth and can be mapped using Geographic Information Systems (GIS) software. This workshop introduces participants to geospatial data formats and concepts as well as sources for this data. 
 
 Presentation by Christine Homuth, Spatial Information (GIS) Specialist.
