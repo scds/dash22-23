@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Machine Learning with R - K-Means Clustering
-nav_order: 2
+nav_order: 15
 ---
 
 ## Machine Learning with R: K-Means Clustering
