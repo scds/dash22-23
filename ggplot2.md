@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Visualization in R using ggplot2
-nav_order: 12
+nav_order: 13
 ---
 
 ## Data Visualization in R using ggplot2
