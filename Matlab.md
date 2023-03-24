@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Visualization with MATLAB
-nav_order: 11
+nav_order: 12
 ---
 
 ## Data Visualization with MATLAB
