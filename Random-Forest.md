@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Machine Learning with R - Random Forest
-nav_order: 5
+nav_order: 6
 ---
 
 ## Machine Learning with R: Random Forest Classification Approach
