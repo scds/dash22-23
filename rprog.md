@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intro to R Programming
-nav_order: 9
+nav_order: 11
 ---
 
 ## Introduction to R Programming
