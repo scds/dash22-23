@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Machine Learning with Python
-nav_order: 8
+nav_order: 10
 ---
 
 ## Machine Learning with Python
