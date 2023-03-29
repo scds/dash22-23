@@ -2,7 +2,7 @@
 layout: default
 title: Resources
 nav_order: 3
-parent: CopyingContent
+parent: Copy ArcGIS Content
 ---  
 
 # Resources 
