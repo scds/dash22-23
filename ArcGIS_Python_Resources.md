@@ -1,8 +1,8 @@
 ---  
 layout: default
 title: Resources
+nav_order: 3
 parent: Copying ArcGIS Online Content
-nav_order: 4
 ---  
 
 # Resources 
