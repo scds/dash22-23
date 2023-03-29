@@ -1,8 +1,8 @@
 ---
 layout: default
 title: ArcGIS Assistant
+nav_order: 1
 parent: Copying ArcGIS Online Content
-nav_order: 2
 ---
 
 # ArcGIS Assistant 
