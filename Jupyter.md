@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Jupyter
+nav_order: 2
 parent: Copying ArcGIS Online Content
-nav_order: 3
 ---
 
 # Jupyter Notebook 
