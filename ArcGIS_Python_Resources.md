@@ -1,3 +1,10 @@
+---  
+layout: default
+title: Resources
+parent: Copying ArcGIS Online Content
+nav_order: 4
+---  
+
 # Resources 
 
 See below for more information and resources on this process and working with Python in ArcGIS. 
