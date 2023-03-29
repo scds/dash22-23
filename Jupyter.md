@@ -1,3 +1,10 @@
+---
+layout: default
+title: Jupyter
+parent: Copying ArcGIS Online Content
+nav_order: 3
+---
+
 # Jupyter Notebook 
 
 The second method to copy content between ArcGIS accounts is using a Jupyter notebook.
