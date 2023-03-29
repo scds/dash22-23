@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copying ArcGIS Online Content
+title: CopyingContent
 nav_order: 16
 has_children: true
 ---
