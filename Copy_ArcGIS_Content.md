@@ -1,3 +1,9 @@
+---  
+layout: default  
+title: Copying ArcGIS Online Content  
+nav_order: 16  
+---  
+
 # How to Copy ArcGIS Online Content Between Accounts
 <img src="assets/img/Copy_ArcGIS_Content.png" alt="Workshop Title Slide" width="720"> 
 
