@@ -2,7 +2,7 @@
 layout: default
 title: Jupyter
 nav_order: 2
-parent: CopyingContent
+parent: Copy ArcGIS Content
 ---
 
 # Jupyter Notebook 
