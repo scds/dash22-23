@@ -1,3 +1,10 @@
+---
+layout: default
+title: ArcGIS Assistant
+parent: Copying ArcGIS Online Content
+nav_order: 2
+---
+
 # ArcGIS Assistant 
 
 ArcGIS Assistant is an application created by Esri Professional Services and can be used to manage accounts and content.  
