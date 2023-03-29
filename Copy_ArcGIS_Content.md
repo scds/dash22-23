@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CopyingContent
+title: Copy ArcGIS Content
 nav_order: 16
 has_children: true
 ---
@@ -34,4 +34,10 @@ A sample web map, available at the link below, has been created for the purpose 
 To get started:
 1. Click on the link above for the Hamilton Zoning Map.
 2. Choose to *Sign In* with your ArcGIS account.
-3. Choose *Save As* to save a copy of the map to your account. 
+3. Choose *Save As* to save a copy of the map to your account.
+
+
+
+### Continue
+
+Continue on with the workshop by exploring the options to copy content, listed below in the Table of Contents.
