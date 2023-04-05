@@ -93,3 +93,8 @@ cloned_items = gis_destination.content.clone_items(items=[item], copy_data=True)
 
 print("Completed!") 
 ``` 
+
+\
+Continue to see [Resources](https://scds.github.io/dash-webinars/ArcGIS_Python_Resources.html) on this process and working with Python in ArcGIS.
+
+Return to the [tutorial home page](https://scds.github.io/dash-webinars/Copy_ArcGIS_Content.html).
