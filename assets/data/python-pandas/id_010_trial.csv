@@ -1,0 +1,25 @@
+trial_index,task,stimulus,value,time_elapsed
+1,Participant ID,,010,12
+2,Consent,,Complete,56
+3,Trial 1,blue_red_Incongruent,81,89
+4,Trial 2,blue_blue_Congruent,38,96
+5,Trial 3,blue_red_Incongruent,82,136
+6,Trial 4,red_red_Congruent,51,161
+7,Trial 5,blue_red_Incongruent,30,198
+8,Trial 6,red_blue_Incongruent,76,216
+9,Trial 7,red_red_Congruent,50,230
+10,Trial 8,blue_blue_Congruent,59,236
+11,Trial 9,blue_red_Incongruent,35,261
+12,Trial 10,blue_blue_Congruent,39,303
+13,Trial 11,red_blue_Incongruent,61,313
+14,Trial 12,red_blue_Incongruent,52,322
+15,Trial 13,blue_red_Incongruent,57,367
+16,Trial 14,blue_blue_Congruent,53,376
+17,Trial 15,blue_red_Incongruent,35,391
+18,Trial 16,red_red_Congruent,18,402
+19,Trial 17,red_blue_Incongruent,83,429
+20,Trial 18,red_blue_Incongruent,74,451
+21,Trial 19,red_blue_Incongruent,80,463
+22,Trial 20,red_blue_Incongruent,61,491
+23,Debrief,,Complete,521
+24,Complete,,Done,542
