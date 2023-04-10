@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cleaning Up Messy Data with Python and Pandas
+title: Data Cleaning with Python and Pandas
 nav_order: 16
 ---
 
