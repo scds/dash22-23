@@ -18,7 +18,7 @@ Presentation by Vivek Jadon, Data Specialist.
 Preparation for this tutorial consists of one step: [Getting the software](#get-the-software). Follow the step below. 
 
 ## Get the software
-This hands-on workshop uses [**Python**](), a software application for data analysis. The program is free to download.
+This hands-on workshop uses [**Python**](https://www.python.org/downloads/), a software application for data analysis. The program is free to download.
 The workshop also uses Jupyter Notebooks via [**Anaconda**](https://www.anaconda.com/). These programs are also free to download.
 
 ## Workshop Recording
