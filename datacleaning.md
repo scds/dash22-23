@@ -6,7 +6,7 @@ nav_order: 16
 
 ## Cleaning Up Messy Data with Python and Pandas
 
-<img src="assets/img/pandas.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/Pandas.png" alt="Workshop Title Slide" width="720">
 
 Raw data often require special preparation for efficient statistical analyses and visualization. This workshop will introduce useful Python functionality along with the pandas package to help organize your raw data and create a clean dataset. Participants will learn how to read multiple CSV files, filter and manipulate their data, and then combine them into a single dataframe according to best practices. 
 
