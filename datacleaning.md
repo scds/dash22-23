@@ -23,7 +23,7 @@ This hands-on workshop uses [**Python**](https://www.python.org/downloads/), a s
 The workshop also uses Jupyter Notebooks via [**Anaconda**](https://www.anaconda.com/). These programs are also free to download.
 
 ## Get the data
-Access the [***experiment files***](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/littvs_mcmaster_ca/EbEdBfmCfmJKi-K1iHFm0kUBPR8Te_5yeQ7czQWq2XxHlA?e=2FuXDc) used in this workshop. Access the [***Jupyter Notebook***](https://raw.githubusercontent.com/scds/dash-webinars/main/workshop-pandas.ipynb) used in this workshop.
+Access the [**experiment files**](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/littvs_mcmaster_ca/EbEdBfmCfmJKi-K1iHFm0kUBPR8Te_5yeQ7czQWq2XxHlA?e=2FuXDc) used in this workshop. Access the [**Jupyter Notebook**](https://raw.githubusercontent.com/scds/dash-webinars/main/workshop-pandas.ipynb) used in this workshop.
 
 ## Event Recording
 
