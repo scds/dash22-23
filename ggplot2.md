@@ -21,7 +21,7 @@ Preparation for this tutorial consists of one step: [Getting the software](#get-
 ## Get the software
 This hands-on workshop uses [**R**](https://posit.co/download/rstudio-desktop/).
 
-## Asynchronous Video Module
+## Workshop Recording
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/755f87f0-4515-416d-b32f-608a17ec8f26/public"></iframe>
 
