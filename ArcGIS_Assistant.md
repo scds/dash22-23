@@ -34,9 +34,3 @@ Below are the steps involved in copying content between accounts using the ArcGI
 - _In some cases content is copied as a reference to the original source item; in other cases the content is migrated over to the second account_
 
 For more information on this process and the supported item types, please refer to the [User Guide](https://guide.assistant.esri-ps.com/docs).
-\
-\
-\
-Continue to the next section on using [Jupyter Notebooks](https://scds.github.io/dash-webinars/Jupyter.html)
-
-Return to the [tutorial home page](https://scds.github.io/dash-webinars/Copy_ArcGIS_Content.html)

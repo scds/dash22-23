@@ -1,14 +1,16 @@
 ---
 layout: default
 title: Copy ArcGIS Content
-nav_order: 16
+nav_order: 15.5
 has_children: true
 ---
 
+<img src="assets/img/Copy_ArcGIS_Content.png" alt="Workshop Title Slide" width="100%"> 
+
 # How to Copy ArcGIS Online Content Between Accounts
-<img src="assets/img/Copy_ArcGIS_Content.png" alt="Workshop Title Slide" width="720"> 
 
 ## Introduction 
+
 Current students, staff, and faculty have access to ArcGIS Online through an Educational Institution Agreement. Content created in the ArcGIS web applications will remain online following graduation but won’t be maintained or updated and are subject to availability of the application. 
 
 Did you know you can copy some content from your McMaster ArcGIS Online account to a personal account? This asynchronous online tutorial will provide you with resources and tools to copy content between accounts. 
@@ -17,7 +19,8 @@ Online module created by Christine Homuth, Spatial Information (GIS) Specialist.
 
 For more information [contact Christine](mailto:libgis@mcmaster.ca) or [schedule a consultation](https://libcal.mcmaster.ca/appointments/gis). 
 
-## Migrating Content 
+## Migrating Content
+
 The workshop outlines two of the methods available that can be used to copy your content between ArcGIS accounts. 
 
 This content has been adapted from the following [Esri Canada Getting Technical](https://resources.esri.ca/getting-technical) articles:
@@ -35,8 +38,6 @@ To get started:
 1. Click on the link above for the Hamilton Zoning Map.
 2. Choose to *Sign In* with your ArcGIS account.
 3. Choose *Save As* to save a copy of the map to your account.
-
-
 
 ### Continue
 
