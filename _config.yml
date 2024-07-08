@@ -1,7 +1,7 @@
 title: 2022-23 DASH Webinars  # *** Enter workshop title here 
 github_repo_url: "https://scds.github.io/dash-webinars/" # *** Enter workshop URL (in github pages) here
 gh_edit_repository: "https://github.com/scds/dash-webinars" # *** Enter the github URL for your repo
-ga_tracking: "G-9W20BCR169" # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
+ga_tracking: "G-HTFKKVJK6K" # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
 
 # This line appears in the footer. Use it to credit the people who created the workshop content, and those who set up the online pages. 
 # If you know some HTML, you can use HTML tags.
