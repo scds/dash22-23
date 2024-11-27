@@ -10,4 +10,4 @@ nav_order: 17
 
 Come learn about git! Git is a version control system widely used in software engineering, academia, and anywhere where projects need reliable and granular versioning -- especially when the projects need to scale to thousands of contributors. You'll learn the basics of working with git repositories, how to pull new repositories from sites like Github, and more.
 
-**The recording and materials for this workshop are available here**: https://learn.scds.ca/intro-git/
+**The recording and materials for this workshop are available here**: <https://learn.scds.ca/intro-git/>
